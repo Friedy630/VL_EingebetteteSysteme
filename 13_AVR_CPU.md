@@ -376,7 +376,7 @@ Beschriebene Parameter:
 
 ![Bild](./images/13_AVR_CPU/MaximaleStromaufnahme.png "Maximale Stromaufnahme des Mikrocontrollers, Seite 312, [^megaAVR]")<!-- style="width: 85%; max-width: 1000px" -->
 
-> **Aufgabe:** Zeichen Sie ein Diagramm das die maximale Taktfrequenz über der anliegenden Betriebsspannung zeigt.
+> **Aufgabe:** Zeichnen Sie ein Diagramm, dass die maximale Taktfrequenz über der anliegenden Betriebsspannung zeigt.
 
         {{1}}
 ************************************************************
